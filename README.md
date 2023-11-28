@@ -3,7 +3,8 @@ A continuously updated repository of TrollStore apps with direct install links.
 
 **NOTE: you must enable "URL Scheme" in TrollStore settings to allow direct installs.**
 # Apps List
-| Name   | Download                                                                           | Direct Install |
-| ---    | ---                                                                                | ---            |
-| Helium | [Download](https://github.com/leminlimez/Helium/releases/download/v1.0/Helium.tipa)| [Direct](apple-magnifier://install?url=https://github.com/leminlimez/Helium/releases/download/v1.0/Helium.tipa) |
-
+| Name   | Version  |Download                                                                           | Direct Install        |
+| ---    | ---      |---                                                                                | ---                   |
+| Helium | 1.0      |[Download](https://github.com/leminlimez/Helium/releases/download/v1.0/Helium.tipa)| Coming Soon (maybe)   |
+| Filza  | 4.0.0-b3 |[Download](https://tigisoftware.com/download/Filza_NoURLScheme_4.0.0.ipa)          |                       |
+| 
